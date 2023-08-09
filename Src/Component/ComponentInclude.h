@@ -1,0 +1,42 @@
+#pragma once
+#define _CRT_SECURE_NO_WARNINGS
+
+#ifndef COMPONENTINCLUDE_H_INCLUDE
+#define COMPONENTINCLUDE_H_INCLUDE
+
+#include "Animator2D.h"
+#include "AudioEvent.h"
+#include "DamageSource.h"
+#include "Explosion.h"
+#include "FireBullet.h"
+#include "Health.h"
+#include "Move.h"
+#include "MoveAndStop.h"
+#include "OutOfScreen.h"
+#include "Score.h"
+#include "ScoreManager.h"
+#include "text.h"
+#include "Gage.h"
+#include "MoveTimer.h"
+#include "SpriteScaleRotation.h"
+#include "Box2DCollision.h"
+#include "Shadow.h"
+#include "LevelUpEffect.h"
+#include "Recovery.h"
+#include "BulletComponent.h"
+#include "LaserOutLine.h"
+#include "Weapon.h"
+#include "EndEffect.h"
+#include "WollObject.h"
+#include "ScrollObject.h"
+#include "AttachPlayer.h"
+#include "AttachEnemy1.h"
+#include "AttachEnemy2.h"
+#include "AttachEnemy3.h"
+#include "AttachEnemy4.h"
+#include "AttachBoss1.h"
+#include "AttachEnemy5.h"
+#include "EndSpawn.h"
+#include "WeaponUI.h"
+
+#endif //!COMPONENTINCLUDE_H_INCLUDE
